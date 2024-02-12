@@ -5,3 +5,6 @@ request('https://market.yandex.ru/catalog--portativnaia-akustika/26992430/list?c
     console.log(body);
   }
 });
+
+
+// это тоже не работает...
